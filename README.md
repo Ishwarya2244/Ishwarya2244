@@ -20,6 +20,7 @@
 
 * Automatic Visitor Counter 
 * AI-Based Quality Control System
+* Pland Disease Detection 
 * Mini - Sentiment Analysis
 * Fake News Detection 
 
