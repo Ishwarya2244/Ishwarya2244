@@ -17,9 +17,10 @@
 
 ## 🌿 Projects
 
-* Plant Disease Detection (Deep Learning)
+* Automatic Visitor Counter 
 * AI-Based Quality Control System
-* More projects coming...
+* Mini - Sentiment Analysis
+* Fake News Detection 
 
 ---
 
