@@ -12,7 +12,8 @@
 * FastAPI
 * HTML, CSS
 * java
-
+* Cloid Computing (AWS)
+* Full Stack
 ---
 
 ## 🌿 Projects
