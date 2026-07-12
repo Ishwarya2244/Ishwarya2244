@@ -2,7 +2,7 @@
 
 🎓 AI & Data Science Student - Final year 
 💡 Interested in Machine Learning & Real-world Problem Solving
-AT Adhiyamaan College Of Engineering , Hosur 
+
 ---
 
 ## 🚀 Skills
