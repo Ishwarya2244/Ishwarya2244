@@ -1,8 +1,8 @@
 # Hi, I'm Ishwarya 👋
 
-🎓 AI & Data Science Student
+🎓 AI & Data Science Student - Final year 
 💡 Interested in Machine Learning & Real-world Problem Solving
-
+AT Adhiyamaan College Of Engineering , Hosur 
 ---
 
 ## 🚀 Skills
@@ -26,9 +26,10 @@
 
 ## 📈 Currently Learning
 
-* Data Structures & Algorithms
-* Deep Learning
-* Backend Development
+*Robotics  Automation
+*Generative AI
+*Data and Information Security 
+etc..
 
 ---
 
@@ -38,4 +39,4 @@
 
 ---
 
-✨ Improving every day through coding & projects
+✨ Improving every day through learning ,  coding & projects
