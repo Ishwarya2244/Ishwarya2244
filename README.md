@@ -8,9 +8,8 @@
 ## 🚀 Skills
 
 * Python
-* Machine Learning (Basics)
+* Machine Learning
 * FastAPI
-* HTML, CSS
 * java
 * Cloid Computing (AWS)
 * Full Stack
