@@ -2,6 +2,7 @@
 
 🎓 AI & Data Science Student - Final year 
 💡 Interested in Machine Learning & Real-world Problem Solving
+Eagerly waiting for the opportunity to apply my skills in organization .
 
 ---
 
@@ -9,7 +10,7 @@
 
 * Python
 * Machine Learning
-* FastAPI
+* DSA
 * java
 * Cloid Computing (AWS)
 * Full Stack
@@ -27,10 +28,9 @@
 
 ## 📈 Currently Learning
 
-*Robotics  Automation
-*Generative AI
-*Data and Information Security 
-etc..
+Generative AI 
+AI Agents
+LLMS and RAG
 
 ---
 
