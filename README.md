@@ -14,10 +14,12 @@ Eagerly waiting for the opportunity to apply my skills in organization .
 * java
 * Cloid Computing (AWS)
 * Full Stack
+* AI
 ---
 
 ## 🌿 Projects
 
+* KNOWSPHERE - AI
 * Automatic Visitor Counter 
 * AI-Based Quality Control System
 * Pland Disease Detection 
